@@ -181,12 +181,17 @@ In addition, some elderly users may have limited experience using digital platfo
 
 ---
 # 1.8 Significance of the Project
-(write here)
+ShifaConnect! provides significant benefits to Muslim families by helping them find trusted and verified caregivers for elderly patients. The system promotes Shariah-compliant caregiving by ensuring gender-appropriate caregiver arrangements.
+
+Furthermore, the application improves healthcare monitoring through organized medical logs and appointment management. It also strengthens communication between caregivers and family members, making elderly care more efficient, secure, and accessible.
 
 ---
 
 # 1.9 Summary
-(write here)
+ShifaConnect! provides many benefits to Muslim families by helping them find trusted and verified caregivers for elderly or bedridden family members. The system promotes Shariah-compliant caregiving by ensuring gender-appropriate care services that align with Islamic values and user comfort.
+
+Besides that, the application improves healthcare management through organized appointment booking and medical log monitoring. Family members can easily monitor patient conditions and communicate with caregivers through the system. This project also supports the growing need for accessible and efficient home-care services in the community.
+
 
 ---
 
