@@ -72,6 +72,10 @@ The specific objectives are:
 - Monitor appointments and activities
 - Verify caregiver accounts
 
+## 4(f) Entity Relationship Diagram (ERD)
+
+![ShifaConnect ERD Diagram](erd-diagram.png)
+
 ---
 # 1.4 Project Scope
 
