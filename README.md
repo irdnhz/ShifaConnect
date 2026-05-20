@@ -1,7 +1,7 @@
-# ShifaConnect-
+# ShifaConnect!
 Shariah-Compliant Elderly Care &amp; Medical Companion Registry
 
-# ShifaConnect
+# ShifaConnect!
 ## Shariah-Compliant Elderly Care & Medical Companion Registry
 
 ---
