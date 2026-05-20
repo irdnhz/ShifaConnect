@@ -176,7 +176,8 @@ In addition, some elderly users may have limited experience using digital platfo
 ---
 
 # 1.7 Sequence Diagram
-(Add sequence diagram here)
+<img width="2168" height="3528" alt="image" src="https://github.com/user-attachments/assets/718da3d2-b5c2-4fb4-a41f-ad4815f99c24" />
+
 
 ---
 # 1.8 Significance of the Project
