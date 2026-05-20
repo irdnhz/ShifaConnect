@@ -13,19 +13,45 @@
 ---
 
 # 1.0 Introduction
-(write introduction here)
+**ShifaConnect!** is a specialized, web-based Model-View-Controller (MVC) application engineered using the Laravel framework to digitalize and streamline home-based elderly care management. 
 
+  Traditional care companion recruitment relies heavily on fragmented, manual communication channels such as WhatsApp or Telegram broadcasts and paper-based tracking sheets. This introduces severe risks regarding data loss, unverified credentials, scheduling conflicts, and compromised religious values. 
+  
+  **ShifaConnect!** addresses these structural inefficiencies by serving as a secure, centralized repository that seamlessly bridges Muslim families with certified healthcare assistants, nurses, and physiotherapists. Built on a foundational logic of Shariah compliance, the platform automates secure authentication, credential auditing, operational logs, and strict gender-matched caregiving configurations to protect patient *awrah* and family peace of mind.
+
+  In order to deliver high performance and reliability during evaluation, the system architecture incorporates a robust core by utilizing the Laravel MVC architectural pattern built on PHP. Next, the system streamlines database management by powering data relationships, structural matching, and historical log durability via a MySQL database driven by Laravel Eloquent ORM. Lastly, the system secures the platform by restricting resource routing uniquely between Admins, Families, and Caregivers using role-based middleware.  
+   
 ---
 # 1.1 Problem Description
 
 ## 1.1.1 Background of the Problem
 
-(write here)
+Currently, most Muslim families requiring home-care assistants or medical companions rely on informal recommendations through word-of-mouth or disorganized digital channels. The typical process involves making broadcast announcements on social media, posting requests in community WhatsApp groups, or contacting multiple private agencies over the phone. 
+
+  
+  Simultaneously, independent caregivers like freelance nurses or physical therapists struggle to market their services to families requiring specific medical or cultural schedules. Once hired, everyday operations such as logging patient vitals, tracking medication times, and altering appointment schedules are kept in physical paper notebooks or scattered instant messaging chats. This manual ecosystem makes it impossible for working family members to monitor their loved ones’ medical progress transparently or count on historical data reliability.
 
 ---
 
 ## 1.1.2 Problem Statement
-(write here)
+
+The current manual processes in home-based elderly care suffer from four critical vulnerabilities:
+
+1. **No Shariah-Aligned Matching:**
+
+General healthcare directories lack gender-filtering options. This makes it difficult for Muslim families to guarantee the privacy and *awrah* protection of their bedridden relatives.
+
+2. **Unreliable Medical Tracking:**
+
+Relying on paper logs or unorganized text messages leads to lost data and miscommunication, leaving families without a reliable medical history for doctor reviews.
+
+3. **High Scheduling Friction:**
+
+Managing appointments manually via phone calls and texts frequently causes double-booking errors and wastes time with back-and-forth communication.
+
+4. **Credential Verification Anxiety:**
+
+Families experience safety anxieties because there is no centralized, transparent system to verify the backgrounds and professional certifications of independent caregivers.
 
 ---
 
