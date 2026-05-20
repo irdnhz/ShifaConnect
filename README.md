@@ -163,7 +163,9 @@ The system will be developed and tested using XAMPP on localhost. GitHub will be
 
 ---
 # 1.5 Constraints
-(write here)
+The development of ShifaConnect! may face several constraints during implementation. One of the main challenges is maintaining the privacy and security of patient medical records because the system handles sensitive healthcare information. Strong security measures are required to prevent unauthorized access and protect user data.
+Another constraint is the verification process for caregivers. The system must ensure that all registered caregivers are trustworthy, qualified and comply with Shariah requirements such as gender-matched caregiving services. This process may require additional time and administrative monitoring.
+In addition, some elderly users may have limited experience using digital platforms, which could make the system difficult for them to use independently. Internet dependency and limited development time may also affect system performance and project completion.
 
 ---
 
