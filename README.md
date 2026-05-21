@@ -98,11 +98,6 @@ The specific objectives are:
 - Monitor appointments and activities
 - Verify caregiver accounts
 
-## 4(f) Entity Relationship Diagram (ERD)
-
-![ShifaConnect ERD Diagram](erd-diagram.png)
-
----
 # 1.4 Project Scope
 
 ## Scope
@@ -171,7 +166,7 @@ In addition, some elderly users may have limited experience using digital platfo
 
 
 # 1.6 ERD
-(Add ERD image here)
+![ShifaConnect ERD Diagram](erd-diagram.png)
 
 ---
 
